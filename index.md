@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # AiCo Solutions - a Service agency
 
-Conseil et développement de solutions intelligentes. 
+Conseil et développement de solutions intelligentes. Notre mission et de vous trouver la meilleur solution Ia pour votre activité. 
